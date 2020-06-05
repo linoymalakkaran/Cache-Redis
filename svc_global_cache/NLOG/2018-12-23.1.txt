@@ -1,0 +1,8 @@
+2018-12-23 09:20:09.6510 | INFO | Value=
+2018-12-23 09:20:33.5375 | INFO | Value=
+2018-12-23 09:20:35.2636 | INFO | Value=
+2018-12-23 09:20:36.4798 | INFO | Value=
+2018-12-23 09:20:37.4626 | INFO | Value=
+2018-12-23 09:20:38.3861 | INFO | Value=
+2018-12-23 09:20:55.8583 | ERROR | The specified endpoint is not defined
+Parameter name: endpoint
